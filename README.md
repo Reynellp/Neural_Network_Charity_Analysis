@@ -57,7 +57,7 @@ With the steps below I was unable to achieve an accuracy score above 75%.
 ![](Images/attempt3.png)
 
 
-## Summary: Summarize the overall results of the deep learning model. 
+## Summary
 Neural networks capable of predicting with a 73% accuracy whether applicants will be successful if funded by Alphabet Soup. Now this is not the targeted range however I am still working on finding a solution utilizing pd.get_dummies on the name column. 
 
 Current Results
@@ -66,5 +66,5 @@ Current Results
 Still testing results
 ![Testing](Images/Dummies_attempt.png)
 
-## Recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Recommendation for different model 
 Decision trees supervised learning algorithm 
